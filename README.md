@@ -75,7 +75,7 @@ Do the following for each of the 356 municipalities (municip*):
 16. Create a 2 standard deviation prediction interval for the production data
 17. Identify the potential outbreaks in the production data
 18. Create and save an excel sheet with the potential outbreaks in `results_task1/municip/outbreaks_municipXXXX.xlsx` (i.e. one Excel file for each municipality).
-19. Create and save a figure that provides a good overview of the situation in the municipality in `results_task1/municip/outbreaks_municipXXXX.png` (i.e. one graph for each municipality). An example of one such graph is available at https://github.com/fhi-beta/xx_03/blob/master/example_report/5218---overvaking-av-totaldodelighet-5218-uke-52.pdf
+19. Create and save a figure that provides a good overview of the situation in the municipality in `results_task1/municip/outbreaks_municipXXXX.png` (i.e. one graph for each municipality). An example of one such graph is available at https://github.com/fhi-beta/xx_04/blob/master/example_report/5218---overvaking-av-totaldodelighet-5218-uke-52.pdf
 
 **Note:** the graphs must include titles with the real municipality name (e.g. `Oslo` instead of `municip0301`). This information is available from `fhidata::norway_locations_b2020`.
 
@@ -100,7 +100,4 @@ Please provide comments in your code that indicate which parts of your code prod
 21. Verify that your code is viewable in your GitHub repository on the internet (both in `Run_task1.R` and in `code_task1/*.R`)
 22. Verify that in your GitHub repository on the internet you have 356 Excel files and 356 graphs in `results_task1/municip/`
 23. Verify that in your GitHub repository on the internet you have graph(s) and/or table(s) in `results_task1/creative_assignment/`
-
-# TASK 1 AND 2 SUBMISSION
-
-Send GryMarysol.Groneng@fhi.no and RichardAubrey.White@fhi.no an email with the link to your repository
+24. Send GryMarysol.Groneng@fhi.no and RichardAubrey.White@fhi.no an email with the link to your repository
